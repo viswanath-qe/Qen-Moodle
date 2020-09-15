@@ -94,7 +94,7 @@ If you wish to display a tour on the Site Home page, you can use the value: "FRO
 ';
 $string['placement'] = 'Placement';
 $string['pluginname'] = 'User tours';
-$string['resettouronpage'] = 'Reset user tour on this page';
+$string['resettouronpage'] = 'Reset user tour on this page 1';
 $string['right'] = 'Right';
 $string['select_block'] = 'Select a block';
 $string['targettype_help'] = 'Each step is associated with a part of the page - the target. Target types are:
