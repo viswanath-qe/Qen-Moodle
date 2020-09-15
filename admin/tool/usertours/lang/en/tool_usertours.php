@@ -191,7 +191,7 @@ $string['tour3_content_timeline'] = 'The Timeline block shows your important upc
 You can choose to show activities in the next week, month, or further into the future.
 
 You can also show items which are overdue.';
-$string['tour3_title_recentcourses'] = 'Recently accessed courses';
+$string['tour3_title_recentcourses'] = 'Recently accessed courses 1';
 $string['tour3_content_recentcourses'] = 'The Recently accessed courses block shows the courses that you last visited, allowing you to jump straight back in.';
 $string['tour3_title_overview'] = 'Course overview';
 $string['tour3_content_overview'] = 'The Course overview block shows all of the courses that you are enrolled in.
